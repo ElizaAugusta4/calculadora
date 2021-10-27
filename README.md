@@ -4,7 +4,7 @@ Objetivo: efetuar cálculos matemáticos.
 
 #Obs:
 
-clone o Repositório e instale os módulos do node.js
+clone o repositório e instale os módulos do node.js
 
 #comandos
 
