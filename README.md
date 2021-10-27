@@ -1,3 +1,18 @@
+A aplicação foi criada durante as aulas do curso de desenvolvimento web do professor Leonardo Leitão com a tecnologia reactjs.
+
+Objetivo: efetuar cálculos matemáticos.
+
+#Obs:
+
+clone o Repositório e instale os módulos do node.js
+
+#comandos
+
+#npm install// instalar os módulos #npm start// rodar
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
